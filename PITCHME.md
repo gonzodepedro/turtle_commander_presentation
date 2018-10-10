@@ -18,7 +18,7 @@ Turtle robot tele-operation via a web application
 
 ---
 
-### Architecture - Objective
+### Architecture - Objectives
 
 Turtle robot tele-operation via a web application
 
@@ -32,7 +32,7 @@ Turtle robot tele-operation via a web application
 
 ---
 
-### Architecture - Objective
+### Architecture - Objectives
 
 - REST Endpoints
   - Assign goals
@@ -103,6 +103,6 @@ Turtle robot tele-operation via a web application
 
 ---
 
-### Presentation topics
+### Questions
 
-Questions?
+?
