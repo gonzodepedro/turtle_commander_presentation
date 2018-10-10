@@ -28,6 +28,12 @@ Turtle robot tele-operation via a web application
   - Tele-operation
   - Assign goals
   - Pause/Resume movement towards goal
+
+
+---
+
+### Architecture - Objective
+
 - REST Endpoints
   - Assign goals
   - Pause/Resume movement
@@ -58,10 +64,19 @@ Turtle robot tele-operation via a web application
 
 ### Architecture - REST
 
+- Endpoints:
+  - POST /goal/x/y
+  - PUT  /pause     {'pause' : true}
+  - POST /teleop/x/z
+
 
 ---
 
 ### Architecture - WEBAPP
+
+- WebSockets
+  - Handle realtime position and attitude
+  - REST to send commands
 
 
 ---
