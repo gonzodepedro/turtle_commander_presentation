@@ -44,14 +44,14 @@ Turtle robot tele-operation via a web application
 
 ### Architecture - High Level
 
-![Architecture](https://raw.githubusercontent.com/gonzodepedro/turtle_commander_presentation/master/images/Untitled%20drawing(2).png)
+![Architecture] (https://raw.githubusercontent.com/gonzodepedro/turtle_commander_presentation/master/images/all.png)
 
 
 ---
 
 ### Architecture - ROS
 
-![Ros Architecture](https://raw.githubusercontent.com/gonzodepedro/turtle_commander_presentation/master/images/Untitled%20drawing(2).png)
+![Ros Architecture](https://raw.githubusercontent.com/gonzodepedro/turtle_commander_presentation/master/images/ros.png)
 
 
 ---
